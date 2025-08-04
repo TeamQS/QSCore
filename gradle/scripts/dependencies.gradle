@@ -65,4 +65,7 @@ dependencies {
     // implementation ('com.google.code.gson:gson:2.8.6') {
     //     transitive = false
     // }
+
+    implementation "curse.maven:mekanism-268560:2835175"
+    implementation "curse.maven:had-enough-items-557549:6827723"
 }
